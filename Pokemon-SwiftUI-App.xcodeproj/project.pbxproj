@@ -77,7 +77,6 @@
 		4234F02E2ADC1640001F3E03 /* PokemonDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailModel.swift; sourceTree = "<group>"; };
 		4234F0312ADC51E0001F3E03 /* PokemonDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailViewModel.swift; sourceTree = "<group>"; };
 		42FCEAD82ADDD17700EF3C8B /* PropertiesItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertiesItemView.swift; sourceTree = "<group>"; };
-		42FCEADE2AE05D5100EF3C8B /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 		42FCEADF2AE05D7D00EF3C8B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -110,7 +109,6 @@
 			isa = PBXGroup;
 			children = (
 				42FCEADF2AE05D7D00EF3C8B /* README.md */,
-				42FCEADE2AE05D5100EF3C8B /* .gitignore.md */,
 				4234EFD02AD2F91A001F3E03 /* Pokemon-SwiftUI-App */,
 				4234EFE62AD2F91B001F3E03 /* Pokemon-SwiftUI-AppTests */,
 				4234EFF02AD2F91B001F3E03 /* Pokemon-SwiftUI-AppUITests */,
